@@ -16,7 +16,7 @@ public class GarciaData {
     }
 
     public int getSegon() {
-        return segon;
+        return this.segon;
     }
 
     public void setSegon(int _segon) {
@@ -24,7 +24,7 @@ public class GarciaData {
     }
 
     public int getMinut() {
-        return minut;
+        return this.minut;
     }
 
     public void setMinut(int _minut) {
@@ -32,7 +32,7 @@ public class GarciaData {
     }
 
     public int getHora() {
-        return hora;
+        return this.hora;
     }
 
     public void setHora(int _hora) {
@@ -40,7 +40,7 @@ public class GarciaData {
     }
 
     public int getAny() {
-        return any;
+        return this.any;
     }
 
     public void setAny(int _any) {
@@ -48,7 +48,7 @@ public class GarciaData {
     }
 
     public int getMes() {
-        return mes;
+        return this.mes;
     }
 
     public void setMes(int _mes) {
@@ -56,7 +56,7 @@ public class GarciaData {
     }
 
     public int getDia() {
-        return dia;
+        return this.dia;
     }
 
     public void setDia(int _dia) {
